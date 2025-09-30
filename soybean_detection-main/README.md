@@ -405,7 +405,7 @@ lib/
   </tr>
   <tr>
     <td>Accuracy</td>
-    <td>~90%</td>
+    <td>~92%</td>
     <td>On validated test datasets</td>
   </tr>
   <tr>
@@ -414,12 +414,6 @@ lib/
     <td>Optimized for resource-constrained devices</td>
   </tr>
 </table>
-
-
-
-## 👨‍💻 Contributors
-
-- **Akash Maurya** - Lead Developer ([@akashmaurya99](https://github.com/akashmaurya99))
 
 ## 📄 License
 
